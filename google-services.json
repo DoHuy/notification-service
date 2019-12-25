@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "961301616299",
+    "firebase_url": "https://parkingtoeasy.firebaseio.com",
+    "project_id": "parkingtoeasy",
+    "storage_bucket": "parkingtoeasy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961301616299:android:ad975ad5e0559a147ec9ee",
+        "android_client_info": {
+          "package_name": "com.example.parkingtoeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961301616299-c15ssf2kal3ha6kfnj0d132bjn7qdbbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkingtoeasy",
+            "certificate_hash": "b79536bc9f63f317d39374a7adb500acfbe02c26"
+          }
+        },
+        {
+          "client_id": "961301616299-e62umlsc5vvernpunasdeihup77ncg7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA45YfMJEtjToHgMEn7YPCe4AKwoZfzePQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961301616299-e62umlsc5vvernpunasdeihup77ncg7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
